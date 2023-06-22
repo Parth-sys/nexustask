@@ -8,7 +8,7 @@ function Navbar() {
     <>
 
       <div className="bg-dark p-2 ">
-        <a href="https://www.aesop.com/hk/en/" className="link pr-1">Click and Collect is now available at select stores. Enjoy complimentary carbon neutral shipping on all orders.<span><button href="https://www.aesop.com/hk/en/" className="link " style={{ color: 'white' }}><BsPlus></BsPlus></button></span>  </a>
+        <a href="https://www.aesop.com/hk/en/" className="link pr-1">Click and Collect is now available at select stores. Enjoy complimentary carbon neutral shipping on all orders.<span><button href="https://www.aesop.com/hk/en/" className="link " style={{ color: 'black' }}><BsPlus></BsPlus></button></span>  </a>
   </div>
       <nav className="navbar navbar-expand-lg p-3" style={{ backgroundColor: "#333" }} >
         <div className="container-fluid">
@@ -63,16 +63,16 @@ function Navbar() {
 
               <div style={{ margin: "10px" }}>
 
-                <button href="https://www.aesop.com/hk/en/" className="link">Log in</button>
+                <button href="https://www.aesop.com/hk/en/" className="link" style={{backgroundColor:"#333" ,color:"white"}}  >Log in</button>
               </div>
               <div style={{ margin: "10px" }}>
-                <button href="https://www.aesop.com/hk/en/" className="link">cabinet</button>
+                <button href="https://www.aesop.com/hk/en/" className="link" style={{backgroundColor:"#333" ,color:"white"}} >cabinet</button>
 
               </div>
 
               <div style={{ margin: "10px" }}>
 
-                <button href="https://www.aesop.com/hk/en/" className="link">cart</button>
+                <button href="https://www.aesop.com/hk/en/" className="link" style={{backgroundColor:"#333" ,color:"white"}}>cart</button>
               </div>
             </div>
           </div>
