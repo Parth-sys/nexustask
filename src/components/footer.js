@@ -1,5 +1,6 @@
 import React from "react";
- 
+ import { BsFacebook, BsInstagram, BsLinkedin, BsTwitter } from "react-icons/bs";
+
 
 function Footer(){
 
@@ -12,12 +13,12 @@ function Footer(){
     <section className="mb-4">
      
       <a className="btn btn-outline-light btn-floating m-1" href="#!" role="button"
-        ><i className="fab fa-facebook-f"></i
-      ></a>
+        > <i ><BsFacebook></BsFacebook></i>
+      </a>
 
      
       <a className="btn btn-outline-light btn-floating m-1" href="#!" role="button"
-        ><i className="fab fa-twitter"></i
+        ><i ><BsTwitter></BsTwitter></i
       ></a>
 
       
@@ -27,17 +28,14 @@ function Footer(){
 
     
       <a className="btn btn-outline-light btn-floating m-1" href="#!" role="button"
-        ><i className="fab fa-instagram"></i
+        ><i > <BsInstagram></BsInstagram></i
       ></a>
 
       <a className="btn btn-outline-light btn-floating m-1" href="#!" role="button"
-        ><i className="fab fa-linkedin-in"></i
+        ><i ><BsLinkedin></BsLinkedin></i
       ></a>
 
       
-      <a className="btn btn-outline-light btn-floating m-1" href="#!" role="button"
-        ><i className="fab fa-github"></i
-      ></a>
     </section>
   
 
@@ -94,73 +92,73 @@ function Footer(){
 
           <ul className="list-unstyled mb-0">
             <li>
-              <a href="#!" className="text-white">Link 1</a>
+              <a href="#!" className="text-white">orders</a>
             </li>
             <li>
-              <a href="#!" className="text-white">Link 2</a>
+              <a href="#!" className="text-white">Stores</a>
             </li>
             <li>
-              <a href="#!" className="text-white">Link 3</a>
+              <a href="#!" className="text-white">Products</a>
             </li>
             <li>
-              <a href="#!" className="text-white">Link 4</a>
+              <a href="#!" className="text-white">Share</a>
             </li>
           </ul>
         </div>
        
         <div className="col-lg-3 col-md-6 mb-4 mb-md-0">
-          <h5 className="text-uppercase">Links</h5>
+          <h5 className="text-uppercase">Learn</h5>
 
           <ul className="list-unstyled mb-0">
             <li>
-              <a href="#!" className="text-white">Link 1</a>
+              <a href="#!" className="text-white">About</a>
             </li>
             <li>
-              <a href="#!" className="text-white">Link 2</a>
+              <a href="#!" className="text-white">Services</a>
             </li>
             <li>
-              <a href="#!" className="text-white">Link 3</a>
+              <a href="#!" className="text-white">Locations</a>
             </li>
             <li>
-              <a href="#!" className="text-white">Link 4</a>
+              <a href="#!" className="text-white">shipping</a>
             </li>
           </ul>
         </div>
       
         <div className="col-lg-3 col-md-6 mb-4 mb-md-0">
-          <h5 className="text-uppercase">Links</h5>
+          <h5 className="text-uppercase">our story</h5>
 
           <ul className="list-unstyled mb-0">
             <li>
-              <a href="#!" className="text-white">Link 1</a>
+              <a href="#!" className="text-white">Foundation</a>
             </li>
             <li>
-              <a href="#!" className="text-white">Link 2</a>
+              <a href="#!" className="text-white">Careers</a>
             </li>
             <li>
-              <a href="#!" className="text-white">Link 3</a>
+              <a href="#!" className="text-white">Instagram</a>
             </li>
             <li>
-              <a href="#!" className="text-white">Link 4</a>
+              <a href="#!" className="text-white">Images</a>
             </li>
           </ul>
         </div>
        
         <div className="col-lg-3 col-md-6 mb-4 mb-md-0">
-          <h5 className="text-uppercase">Links</h5>
+          <h5 className="text-uppercase">Twitter</h5>
 
           <ul className="list-unstyled mb-0">
             <li>
-              <a href="#!" className="text-white">Link 1</a>
+              <a href="#!" className="text-white">Story</a>
             </li>
             <li>
-              <a href="#!" className="text-white">Link 2</a>
+              <a href="#!" className="text-white">Message us</a>
             </li>
             <li>
-              <a href="#!" className="text-white">Link 3</a>
+              <a href="#!" className="text-white">Complaint us</a>
             </li>
             <li>
-              <a href="#!" className="text-white">Link 4</a>
+              <a href="#!" className="text-white">Review us</a>
             </li>
           </ul>
         </div>
@@ -172,8 +170,8 @@ function Footer(){
   </div>
  
   <div className="text-center p-3" style={{backgroundColor: "gray"}}>
-    © 2020 Copyright:
-    <a className="text-white" href="https://mdbootstrap.com/">MDBootstrap.com</a>
+    © Aesop:
+    <a className="text-white" href="www.aesop.com">www.aesop.com]</a>
   </div>
  
 </footer>
