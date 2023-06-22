@@ -1,5 +1,6 @@
 import React from "react";
 import {BsArrowRightShort} from 'react-icons/bs'
+
 function Video(){
     return(
         <div className="container" style={{marginTop:"100px"}}>
