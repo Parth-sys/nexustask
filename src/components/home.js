@@ -18,41 +18,41 @@ function Navbar() {
           <div className="collapse navbar-collapse " id="navbarTogglerDemo01" >
             <ul className="navbar-nav me-auto mb-2 mb-lg-0">
               <li className="nav-item">
-                <a className="nav-link active " aria-current="page" href=" _blank"e={{ color: "white" }} >Skin Care</a>
+                <a className="nav-link active " aria-current="page" href=" _blank"style={{ color: "white" }} >Skin Care</a>
               </li>
               <li className="nav-item">
-                <a className="nav-link" href=" _blank"e={{ color: "white" }} >Body & Hand</a>
+                <a className="nav-link" href=" _blank" style={{ color: "white" }} >Body & Hand</a>
               </li>
               <li className="nav-item">
-                <a className="nav-link " style={{ color: "white" }}>Hair</a>
+                <a className="nav-link " href=" _blank" style={{ color: "white" }}>Hair</a>
               </li>
               <li className="nav-item">
-                <a className="nav-link " style={{ color: "white" }}>Fragrance</a>
+                <a className="nav-link " href=" _blank"style={{ color: "white" }}>Fragrance</a>
               </li>
               <li className="nav-item">
-                <a className="nav-link " style={{ color: "white" }}>Home</a>
+                <a className="nav-link " href=" _blank" style={{ color: "white" }}>Home</a>
               </li>
               <li className="nav-item">
-                <a className="nav-link " style={{ color: "white" }} >Kits& Travel</a>
-              </li>
-
-              <li className="nav-item">
-                <a className="nav-link " style={{ color: "white" }}  >Gifts</a>
+                <a className="nav-link "href=" _blank" style={{ color: "white" }} >Kits& Travel</a>
               </li>
 
               <li className="nav-item">
-                <a className="nav-link " style={{ color: "white" }}>Read</a>
-              </li>
-              <li className="nav-item">
-                <a className="nav-link " style={{ color: "white" }}  >Stores</a>
+                <a className="nav-link " href=" _blank"   style={{ color: "white" }}  >Gifts</a>
               </li>
 
               <li className="nav-item">
-                <a className="nav-link " style={{ color: "white" }}>Facial Appointments</a>
+                <a className="nav-link " href=" _blank" style={{ color: "white" }}>Read</a>
+              </li>
+              <li className="nav-item">
+                <a className="nav-link " href=" _blank"  style={{ color: "white" }}  >Stores</a>
               </li>
 
               <li className="nav-item">
-                <a className="nav-link " style={{ color: "white" }}></a>
+                <a className="nav-link " href=" _blank"   style={{ color: "white" }}>Facial Appointments</a>
+              </li>
+
+              <li className="nav-item">
+                <a className="nav-link "  href=" _blank" style={{ color: "white" }}></a>
               </li>
 
             </ul>
