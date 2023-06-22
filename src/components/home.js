@@ -8,7 +8,7 @@ function Navbar() {
     <>
 
       <div className="bg-dark p-2 ">
-        <a href="#" className="link pr-1">Click and Collect is now available at select stores. Enjoy complimentary carbon neutral shipping on all orders.<span><a href="#" className="link " style={{ color: 'white' }}><BsPlus></BsPlus></a></span>  </a>
+        <a href="https://www.aesop.com/hk/en/" className="link pr-1">Click and Collect is now available at select stores. Enjoy complimentary carbon neutral shipping on all orders.<span><a href="https://www.aesop.com/hk/en/" className="link " style={{ color: 'white' }}><BsPlus></BsPlus></a></span>  </a>
       </div>
       <nav className="navbar navbar-expand-lg p-3" style={{ backgroundColor: "#333" }} >
         <div className="container-fluid">
@@ -18,41 +18,41 @@ function Navbar() {
           <div className="collapse navbar-collapse " id="navbarTogglerDemo01" >
             <ul className="navbar-nav me-auto mb-2 mb-lg-0">
               <li className="nav-item">
-                <a className="nav-link active " aria-current="page" href="#" style={{ color: "white" }} >Skin Care</a>
+                <a className="nav-link active " aria-current="page" href="https://www.aesop.com/hk/en/" style={{ color: "white" }} >Skin Care</a>
               </li>
               <li className="nav-item">
-                <a className="nav-link" href="#" style={{ color: "white" }} >Body & Hand</a>
+                <a className="nav-link" href="https://www.aesop.com/hk/en/" style={{ color: "white" }} >Body & Hand</a>
               </li>
               <li className="nav-item">
-                <a className="nav-link " href="#" style={{ color: "white" }}>Hair</a>
+                <a className="nav-link " href="https://www.aesop.com/hk/en/" style={{ color: "white" }}>Hair</a>
               </li>
               <li className="nav-item">
-                <a className="nav-link " href="#"style={{ color: "white" }}>Fragrance</a>
+                <a className="nav-link " href="https://www.aesop.com/hk/en/"style={{ color: "white" }}>Fragrance</a>
               </li>
               <li className="nav-item">
-                <a className="nav-link " href="#" style={{ color: "white" }}>Home</a>
+                <a className="nav-link " href="https://www.aesop.com/hk/en/" style={{ color: "white" }}>Home</a>
               </li>
               <li className="nav-item">
-                <a className="nav-link "href="#" style={{ color: "white" }} >Kits& Travel</a>
-              </li>
-
-              <li className="nav-item">
-                <a className="nav-link " href="#"   style={{ color: "white" }}  >Gifts</a>
+                <a className="nav-link "href="https://www.aesop.com/hk/en/" style={{ color: "white" }} >Kits& Travel</a>
               </li>
 
               <li className="nav-item">
-                <a className="nav-link " href="#" style={{ color: "white" }}>Read</a>
-              </li>
-              <li className="nav-item">
-                <a className="nav-link " href="#"  style={{ color: "white" }}  >Stores</a>
+                <a className="nav-link " href="https://www.aesop.com/hk/en/"   style={{ color: "white" }}  >Gifts</a>
               </li>
 
               <li className="nav-item">
-                <a className="nav-link " href="#"   style={{ color: "white" }}>Facial Appointments</a>
+                <a className="nav-link " href="https://www.aesop.com/hk/en/" style={{ color: "white" }}>Read</a>
+              </li>
+              <li className="nav-item">
+                <a className="nav-link " href="https://www.aesop.com/hk/en/"  style={{ color: "white" }}  >Stores</a>
               </li>
 
               <li className="nav-item">
-                <a className="nav-link "  href="#" style={{ color: "white" }}></a>
+                <a className="nav-link " href="https://www.aesop.com/hk/en/"   style={{ color: "white" }}>Facial Appointments</a>
+              </li>
+
+              <li className="nav-item">
+                <a className="nav-link "  href="https://www.aesop.com/hk/en/" style={{ color: "white" }}></a>
               </li>
 
             </ul>
@@ -63,16 +63,16 @@ function Navbar() {
 
               <div style={{ margin: "10px" }}>
 
-                <a href="#" className="link">Log in</a>
+                <a href="https://www.aesop.com/hk/en/" className="link">Log in</a>
               </div>
               <div style={{ margin: "10px" }}>
-                <a href="#" className="link">cabinet</a>
+                <a href="https://www.aesop.com/hk/en/" className="link">cabinet</a>
 
               </div>
 
               <div style={{ margin: "10px" }}>
 
-                <a href="#" className="link">cart</a>
+                <a href="https://www.aesop.com/hk/en/" className="link">cart</a>
               </div>
             </div>
           </div>
